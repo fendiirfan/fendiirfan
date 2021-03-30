@@ -1,5 +1,6 @@
 ### Terimakasih udah mampir.....
-###[<img align="left" alt="fendi" src="https://visitor-badge.laobi.icu/badge?page_id=fendiirfan.fendiirfan" />][github]
+[<img align="left" alt="fendi" src="https://visitor-badge.laobi.icu/badge?page_id=fendiirfan.fendiirfan" />][github]
+-
 
 ## I'm a Student, Developer, and Teacher!!
 
