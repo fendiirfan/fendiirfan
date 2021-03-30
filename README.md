@@ -1,7 +1,10 @@
 ### Terimakasih udah mampir.....
 [<img align="left" alt="fendi" src="https://visitor-badge.laobi.icu/badge?page_id=fendiirfan.fendiirfan" />][github]
 -
-
+<p align="center">
+        <img src="https://giphy.com/embed/ZVik7pBtu9dNS" alt="Word" width=650 height=350 />
+</p>
+-
 ## I'm a Student, Developer, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
