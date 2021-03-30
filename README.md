@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-fendiirfan.vercel.app/api/spotify-playing" alt="fendiirfan Spotify Playing" width="350" />](https://open.spotify.com/user/fendiirfan)
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="fendiirfan Spotify Playing" width="350" />](https://open.spotify.com/user/fendiirfan)
 
 ### Connect with me:
 
