@@ -2,7 +2,7 @@
 [<img align="left" alt="fendi" src="https://visitor-badge.laobi.icu/badge?page_id=fendiirfan.fendiirfan" />][github]
 -
 <p align="center">
-        <img src="https://giphy.com/embed/ZVik7pBtu9dNS" alt="Word" width=650 height=350 />
+        <img src="https://i0.wp.com/i.giphy.com/media/ZVik7pBtu9dNS/giphy-downsized.gif?w=770&ssl=1" alt="Word" width=650 height=350 />
 </p>
 -
 ## I'm a Student, Developer, and Teacher!!
