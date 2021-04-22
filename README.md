@@ -5,7 +5,7 @@
         <img src="https://i0.wp.com/i.giphy.com/media/ZVik7pBtu9dNS/giphy-downsized.gif?w=770&ssl=1" alt="Word" width=650 height=350 />
 </p>
 
-## I'm a Student, Developer, and Data Enthusiast!!
+## I'm a Data Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
